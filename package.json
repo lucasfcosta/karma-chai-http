@@ -1,0 +1,29 @@
+{
+  "name": "karma-chai-http",
+  "version": "1.0.0",
+  "description": "Karma plugin for chai-http plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfcosta/karma-chai-http.git"
+  },
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "chai",
+    "chai-http"
+  ],
+  "author": "Lucas Fernandes da Costa <fernandesdacostalucas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasfcosta/karma-chai-http/issues"
+  },
+  "homepage": "https://github.com/lucasfcosta/karma-chai-http#readme",
+  "peerDependencies": {
+    "chai": "*",
+    "chai-http": "*"
+  }
+}
